@@ -1,50 +1,86 @@
-# Welcome to your Expo app 👋
+# ⚔️ LOGOS: Tu Entrenamiento Personal en la Vida Real
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**LOGOS** es una aplicación de productividad gamificada diseñada para convertir tus metas diarias en una épica batalla por la auto-superación. Inspirada en la filosofía estoica y los sistemas RPG clásicos, transforma la gestión de tareas y hábitos en una experiencia de progreso constante.
 
-## Get started
+![LOGOS Banner Placeholder](https://img.shields.io/badge/LOGOS-Productivity-d4a017?style=for-the-badge)
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Características Principales
 
-2. Start the app
+### 🗡️ Gestión de Tareas (HOY)
+- **Batallas Diarias**: Crea tareas con diferentes niveles de dificultad (Fácil, Media, Difícil, Legendaria).
+- **Recompensa Inmediata**: Gana XP y monedas por cada victoria.
+- **Sugerencias Rápidas**: Añade tareas comunes como "Meditar" o "Ejercicio" con un solo toque.
+- **Historial dinámico**: Las tareas se desmarcan automáticamente cada nuevo día para una nueva oportunidad de victoria.
 
-   ```bash
-   npx expo start
-   ```
+### 🔥 Forja de Hábitos
+- **Consistencia**: Define hábitos de tipo contador (ej. 8 vasos de agua) o de tipo interruptor.
+- **Progreso Visual**: Barras de progreso que te muestran qué tan cerca estás de completar tu disciplina diaria.
+- **Acceso Directo**: Configura tus hábitos fácilmente desde el panel de perfil.
 
-In the output, you'll find options to open the app in a
+### 🛡️ Tienda de Recompensas
+- **Gasta con Intención**: Compra recompensas que tú mismo defines.
+- **Precios Simplificados**: Cuatro niveles de precio (Pequeño, Medio, Grande, Épico).
+- **Recompensas Pre-cargadas**: Comienza con sugerencias equilibradas para hackear tu dopamina de forma saludable.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 👑 Perfil y Progresión
+- **Escudo Dinámico**: Tu escudo evoluciona (⚔️ → 🛡️ → 👑 → ⭐) según tu nivel global.
+- **Racha Legendaria**: El color de tu marco cambia según tu racha de días activos (Gris, Verde, Azul, Púrpura, Dorado).
+- **Avatar Personalizado**: Sube tu propia foto de guerrero.
+- **Logros**: Gana insignias por consistencia y nivel.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📸 Galería (Capturas de Pantalla)
 
-When you're ready, run:
+````carousel
+![Pantalla de Tareas](https://placehold.co/600x400/0a0a0f/d4a017?text=Hoy+Screen)
+<!-- slide -->
+![Tienda de Recompensas](https://placehold.co/600x400/0a0a0f/d4a017?text=Store+Screen)
+<!-- slide -->
+![Perfil del Guerrero](https://placehold.co/600x400/0a0a0f/d4a017?text=Profile+Screen)
+````
 
+> [!TIP]
+> **¿Tienes capturas?** ¡Pásame la ruta de los archivos en tu PC (ej: `C:\Users\...\screenshot.png`) y las incrustaré correctamente en este README!
+
+---
+
+## 🛠️ Comenzar mi Camino
+
+### 1. Clonar e Instalar
 ```bash
-npm run reset-project
+# Instalar dependencias
+pnpm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Ejecutar
+```bash
+# Iniciar servidor de desarrollo
+pnpm start
+```
 
-## Learn more
+### 3. Modos de Uso
+- **Android/iOS**: Escanea el código QR con la app de Expo Go.
+- **Web**: Presiona `w` en la terminal (soporte básico).
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## ⚙️ Herramientas de Desarrollador
+Para facilitar el testeo, LOGOS incluye un **Modo Dev** oculto:
+1. Ve a la pantalla de **PERFIL**.
+2. Toca el título **"PERFIL"** 5 veces seguidas.
+3. El panel te permitirá simular el paso de días, forzar niveles y resetear datos para probar la lógica de reinicio.
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 🎨 Especificaciones de Diseño
+- **Fondo**: `#0a0a0f` (Negro Profundo RPG).
+- **Texto**: `#e2d9c5` (Papiro/Hueso).
+- **Acento**: `#d4a017` (Oro LOGOS).
+- **Tipografía**: *ShareTechMono* para un look retro-terminal.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+*“Ninguna persona tiene el poder de tener todo lo que desea, pero está en su poder no desear lo que no tiene y aprovechar con alegría lo que tiene.” — Séneca*
