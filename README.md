@@ -32,18 +32,21 @@
 
 ---
 
-## 📸 Galería (Capturas de Pantalla)
+## 📸 Galería de Interfaz
 
 ````carousel
-![Pantalla de Tareas](https://placehold.co/600x400/0a0a0f/d4a017?text=Hoy+Screen)
+![Pantalla de Inicio](assets/screenshots/pantallaInicio.png)
 <!-- slide -->
-![Tienda de Recompensas](https://placehold.co/600x400/0a0a0f/d4a017?text=Store+Screen)
+![Elección de Arquetipo](assets/screenshots/EleccionPErsonaje.png)
 <!-- slide -->
-![Perfil del Guerrero](https://placehold.co/600x400/0a0a0f/d4a017?text=Profile+Screen)
+![Gestión de Tareas](assets/screenshots/PantallaHoy.png)
+<!-- slide -->
+![Tienda de Recompensas](assets/screenshots/pantallaTienda.png)
+<!-- slide -->
+![Resumen Semanal](assets/screenshots/pantallaSemana.png)
+<!-- slide -->
+![Perfil del Guerrero](assets/screenshots/pantallaPerfil.png)
 ````
-
-> [!TIP]
-> **¿Tienes capturas?** ¡Pásame la ruta de los archivos en tu PC (ej: `C:\Users\...\screenshot.png`) y las incrustaré correctamente en este README!
 
 ---
 
