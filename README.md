@@ -34,19 +34,13 @@
 
 ## 📸 Galería de Interfaz
 
-````carousel
-![Pantalla de Inicio](assets/screenshots/pantallaInicio.png)
-<!-- slide -->
-![Elección de Arquetipo](assets/screenshots/EleccionPErsonaje.png)
-<!-- slide -->
-![Gestión de Tareas](assets/screenshots/PantallaHoy.png)
-<!-- slide -->
-![Tienda de Recompensas](assets/screenshots/pantallaTienda.png)
-<!-- slide -->
-![Resumen Semanal](assets/screenshots/pantallaSemana.png)
-<!-- slide -->
-![Perfil del Guerrero](assets/screenshots/pantallaPerfil.png)
-````
+| Inicio | Onboarding | Tareas |
+| :---: | :---: | :---: |
+| ![Pantalla de Inicio](assets/screenshots/pantallaInicio.png) | ![Elección de Arquetipo](assets/screenshots/EleccionPErsonaje.png) | ![Gestión de Tareas](assets/screenshots/PantallaHoy.png) |
+
+| Tienda | Semana | Perfil |
+| :---: | :---: | :---: |
+| ![Tienda de Recompensas](assets/screenshots/pantallaTienda.png) | ![Resumen Semanal](assets/screenshots/pantallaSemana.png) | ![Perfil del Guerrero](assets/screenshots/pantallaPerfil.png) |
 
 ---
 
